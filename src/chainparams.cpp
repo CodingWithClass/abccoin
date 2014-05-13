@@ -63,8 +63,8 @@ public:
         genesis.print();
         
         
-        assert(hashGenesisBlock == uint256("0x0"));
-        assert(genesis.hashMerkleRoot == uint256("0x0"));
+        assert(hashGenesisBlock == uint256("0x00000bfa22bd32de32f4234da1024cc933e0c325075c4b09e75087260a787744"));
+        assert(genesis.hashMerkleRoot == uint256("0x4b3933cc119da1746a2a85c993ab1a483075ae6770cb9820b2fa6f99c4af700a"));
 
         vSeeds.push_back(CDNSSeedData("classcoin.classcoder.com", "classcoin.classcoder.com"));
 
@@ -118,7 +118,7 @@ public:
 
         // Modify the testnet genesis block so the timestamp is valid for a later start.
         genesis.nTime = 1374901773;
-        genesis.nNonce = 1211565;
+        genesis.nNonce = 1245695;
         
         
         //// debug print

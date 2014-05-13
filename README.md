@@ -1,4 +1,4 @@
-ABCCoin - An SHA256 PoW Cloner!
+ClassCoin - An SHA256 PoW Cloner!
 
-[![Build Status](https://travis-ci.org/RazorLove/abccoin.png?branch=master)](https://travis-ci.org/RazorLove/abccoin)
+[![Build Status](https://travis-ci.org/RazorLove/classcoin.png?branch=master)](https://travis-ci.org/RazorLove/classcoin)
 
